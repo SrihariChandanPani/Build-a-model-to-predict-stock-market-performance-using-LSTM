@@ -12,6 +12,7 @@ To evaluate the model using MAE, RMSE, and R² score
 
 Dataset:
 Source: Kaggle
+
 Features Used:
 Date
 Open
